@@ -10,5 +10,7 @@ python3 driver.py <input_string>
 
 ## Example
 
-![Input Board](https://github.com/ekjyot07/Sudoku-AI/blob/main/images/inputBoard.png?raw=true)
-![Filled Board](https://github.com/ekjyot07/Sudoku-AI/blob/main/images/filledBoard.png?raw=true)
+<p float="left">
+  <img width="100" height="100" src="https://github.com/ekjyot07/Sudoku-AI/blob/main/images/inputBoard.png" /> 
+  <img width="100" height="100" src="https://github.com/ekjyot07/Sudoku-AI/blob/main/images/filledBoard.png" />
+</p>
