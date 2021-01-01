@@ -10,5 +10,5 @@ python3 driver.py <input_string>
 
 ## Example
 
-![Input board](https://github.com/ekjyot07/Sudoku-AI/images/inputBoard.png)
-![Filled board](https://github.com/ekjyot07/Sudoku-AI/images/filledBoard.png)
+![Input Board](https://github.com/ekjyot07/Sudoku-AI/blob/main/images/inputBoard.png?raw=true)
+![Filled Board](https://github.com/ekjyot07/Sudoku-AI/blob/main/images/filledBoard.png?raw=true)
