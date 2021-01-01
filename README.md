@@ -12,6 +12,10 @@ python3 driver.py <input_string>
 
 <p float="left">
   <img width="200" height="200" src="https://github.com/ekjyot07/Sudoku-AI/blob/main/images/inputBoard.png" /> 
-  <b>     -->      </b>
+  <b>                 </b>
   <img width="200" height="200" src="https://github.com/ekjyot07/Sudoku-AI/blob/main/images/filledBoard.png" />
+</p>
+<p float="left">
+  <em>Input Board                                 </em> 
+  <em>Filled Board</em> 
 </p>
