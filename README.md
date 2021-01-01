@@ -16,6 +16,5 @@ python3 driver.py <input_string>
   <img width="200" height="200" src="https://github.com/ekjyot07/Sudoku-AI/blob/main/images/filledBoard.png" />
 </p>
 <p float="left">
-  <em>Input Board                                 </em> 
-  <em>Filled Board</em> 
+  <em>Input Board                                 Filled Board</em>  
 </p>
