@@ -13,12 +13,13 @@ python3 driver.py <input_string>
 
 <p>
   <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Input Board</em>
-  <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
+  <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
   <em>Filled Board</em>
 </p>
 
 <p>
   <img width="200" height="200" src="https://github.com/ekjyot07/Sudoku-AI/blob/main/images/inputBoard.png" /> 
+  <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
   <img width="200" height="200" src="https://github.com/ekjyot07/Sudoku-AI/blob/main/images/filledBoard.png" />
 </p>
 
